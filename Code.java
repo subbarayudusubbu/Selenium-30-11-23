@@ -8,7 +8,7 @@ public class Code {
 		k.setPhonenumber("9988776655");
 		k.setMail("subbu@1234");
 		k.setCity("Bangalore");
-		
+	k.setUsername("subbarayudu")	
 		System.out.println("list of out put:___"+k.getUsername()+" ,"+k.getCity()+ "  ::" +k.getMail());
 		
 		User s= new User();
